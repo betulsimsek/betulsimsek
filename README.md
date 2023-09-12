@@ -6,7 +6,7 @@ Betül Şimşek</a></h1>
 
 - 📫 You can reach me via: eylulbetulsimsek@gmail.com
 
-- 📄 You can know about my experiences on <a href="https:linkedin.com/in/betulsimsek" target="blank">LinkedIn</a>
+- 📄 You can know about my experiences on <a href="https://www.linkedin.com/in/betulsimsek" target="blank">LinkedIn</a>
 <br/>
 
 
