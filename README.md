@@ -14,8 +14,7 @@ Betül Şimşek</a></h1>
 
 ### 🛠 &nbsp;Tech Stack
 
-![GitHub]([https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
-))&nbsp;
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
