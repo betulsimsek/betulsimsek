@@ -10,7 +10,6 @@ Betül Şimşek</a></h1>
 <br/>
 
 
-<img alt="Night Coding" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" align="right" height="280" />
 
 ### 🛠 &nbsp;Tech Stack
 
